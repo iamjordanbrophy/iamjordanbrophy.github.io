@@ -1,2 +1,2 @@
 # iamjordanbrophy.github.io
-My personal site for random thoughts of interest to myself
+My personal site for random thoughts. Probabaly of interest to no one other than myself.
